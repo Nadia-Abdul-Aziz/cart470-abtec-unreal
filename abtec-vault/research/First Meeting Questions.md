@@ -6,7 +6,7 @@
 - Are we creating a virtual gallery that can be visited any time, as it is now in Second Life, or are we creating a VR installation for a physical gallery space? 
 
 ## Second Life vs new platform
-- How much of the Second Life aesthetics and principles are we looking to keep within this evolution of the gallery space?
+- How much of the Second Life aesthetics and principles are we looking to keep within this evolution of the gallery space (ie Multiplayer aspects, player avatars, high mobility, etc.)
 - What kind of space do we want? Are recreating what already exists on Second Life, or are we looking for a new approach? How are we allowed to change the shape of the space?
 - Which limitations are software based, and which are intentional?
 
