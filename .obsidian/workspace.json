@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abtec-vault/research/First Meeting Notes.md",
+                "file": "abtec-vault/research/First Meeting Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Meeting Notes"
+              "title": "First Meeting Questions"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "cc184692fe76042a",
   "lastOpenFiles": [
-    "abtec-vault/research/First Meeting Questions.md",
     "abtec-vault/research/First Meeting Notes.md",
+    "abtec-vault/research/First Meeting Questions.md",
     "Untitled 1.md",
     "abtec-vault/research",
     "abtec-vault/Living Learning Contract.md",
