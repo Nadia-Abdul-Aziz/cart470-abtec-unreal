@@ -37,7 +37,7 @@ What limitations of Second Life are part of the gallery space?
 - Possible budget availability, for really cool tech thing, efficiently and buying the right tool 
 	- Ask Nancy to buy assets! Don't go over $200, keep it reasonable 
 - Being able to preserve builds, like in Unity 
-- Be aware of ethics of the tools we need, but we need tools to spread the message. Add to pros and cons list. Indigenous people need to exist in the future! 
+- Be aware of ethics of the tools we need, but we need tools to spread the message. Add to pros and cons list. **Indigenous people need to exist in the future!** 
 
 # Milestones and Timeline
 
@@ -50,8 +50,13 @@ What limitations of Second Life are part of the gallery space?
 		- replicating gun exhibit (can the Indian Act be reactive? bullet holes?)
 		- popups for didactic panels - have different options/views 
 	- 3rd/final check in
-	
 
+# Post Meeting-Meeting
 
+- 5 builds
+	- Unity + webuild
+	- Godot + webuild
+	- Unreal
+- VR build in each as well, ideally?? 
 
 
